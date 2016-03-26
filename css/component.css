@@ -10,14 +10,16 @@
 }
 
 .demo-1 .large-header {
+	
+
 	background-image: url('../img/BIONICA.png');
 }
 
 .demo-2 .large-header {
+	
 	background-image: url('../img/BIONICA.png');
 	background-position: center bottom;
 }
-
 
 
 
