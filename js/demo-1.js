@@ -28,6 +28,7 @@
                 var py = y + Math.random()*height/20;
                 var p = {x: px, originX: px, y: py, originY: py };
                 points.push(p);
+
             }
         }
 
@@ -165,7 +166,7 @@
         (function() {
             _this.pos = pos || null;
             _this.radius = rad || null;
-            _this.color = color || null;
+            _this.color = color|| null;
         })();
 
         this.draw = function() {
